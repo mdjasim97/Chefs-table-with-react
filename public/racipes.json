@@ -1,8 +1,8 @@
 [{
         "id": 1,
-        "recipe_img": "../src/assets/images/Rectangle 20170.png",
-        "name": "Spaghetti Bolognese",
-        "description": "Classic Italian pasta dish with savory meat sauce.",
+        "recipe_img": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Pancake With Strawberry",
+        "description": "Fluffy pancakes topped with fresh strawberries, a delightful blend of sweet and tangy flavors.",
         "item": [
             "550 g chicken",
             "120 ml soy sauce",
@@ -14,13 +14,12 @@
     },
     {
         "id": 2,
-        "recipe_img": "../src/assets/images/Rectangle 20170 (1).png",
-        "name": "Spaghetti Bolognese",
-        "description": "Classic Italian pasta dish with savory meat sauce.",
+        "recipe_img": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Pancake With Strawberry",
+        "description": "Fluffy pancakes topped with fresh strawberries, a delightful blend of sweet and tangy flavors.",
         "item": [
             "550 g chicken",
             "120 ml soy sauce",
-            "200 g basil leaf",
             "400 g mushroom"
         ],
         "calories": 320,
@@ -28,12 +27,11 @@
     },
     {
         "id": 3,
-        "recipe_img": "../src/assets/images/Rectangle 20170.png",
-        "name": "Spaghetti Bolognese",
-        "description": "Classic Italian pasta dish with savory meat sauce.",
+        "recipe_img": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Pancake With Strawberry",
+        "description": "Fluffy pancakes topped with fresh strawberries, a delightful blend of sweet and tangy flavors.",
         "item": [
             "550 g chicken",
-            "120 ml soy sauce",
             "200 g basil leaf",
             "400 g mushroom"
         ],
@@ -42,9 +40,9 @@
     },
     {
         "id": 4,
-        "recipe_img": "../src/assets/images/Rectangle 20170 (1).png",
-        "name": "Spaghetti Bolognese",
-        "description": "Classic Italian pasta dish with savory meat sauce.",
+        "recipe_img": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Pancake With Strawberry",
+        "description": "Fluffy pancakes topped with fresh strawberries, a delightful blend of sweet and tangy flavors.",
         "item": [
             "550 g chicken",
             "120 ml soy sauce",
@@ -56,9 +54,9 @@
     },
     {
         "id": 5,
-        "recipe_img": "../src/assets/images/Rectangle 20170.png",
-        "name": "Spaghetti Bolognese",
-        "description": "Classic Italian pasta dish with savory meat sauce.",
+        "recipe_img": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Pancake With Strawberry",
+        "description": "Fluffy pancakes topped with fresh strawberries, a delightful blend of sweet and tangy flavors.",
         "item": [
             "550 g chicken",
             "120 ml soy sauce",
@@ -70,25 +68,24 @@
     },
     {
         "id": 6,
-        "recipe_img": "../src/assets/images/Rectangle 20170 (1).png",
-        "name": "Spaghetti Bolognese",
-        "description": "Classic Italian pasta dish with savory meat sauce.",
+        "recipe_img": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Pancake With Strawberry",
+        "description": "Fluffy pancakes topped with fresh strawberries, a delightful blend of sweet and tangy flavors.",
         "item": [
             "550 g chicken",
             "120 ml soy sauce",
-            "200 g basil leaf",
-            "400 g mushroom"
+            "200 g basil leaf"
+
         ],
         "calories": 320,
         "preparing_time": 30
     },
     {
         "id": 7,
-        "recipe_img": "../src/assets/images/Rectangle 20170.png",
-        "name": "Spaghetti Bolognese",
-        "description": "Classic Italian pasta dish with savory meat sauce.",
+        "recipe_img": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Pancake With Strawberry",
+        "description": "Fluffy pancakes topped with fresh strawberries, a delightful blend of sweet and tangy flavors.",
         "item": [
-            "550 g chicken",
             "120 ml soy sauce",
             "200 g basil leaf",
             "400 g mushroom"
@@ -98,9 +95,9 @@
     },
     {
         "id": 8,
-        "recipe_img": "../src/assets/images/Rectangle 20170 (1).png",
-        "name": "Spaghetti Bolognese",
-        "description": "Classic Italian pasta dish with savory meat sauce.",
+        "recipe_img": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Pancake With Strawberry",
+        "description": "Fluffy pancakes topped with fresh strawberries, a delightful blend of sweet and tangy flavors.",
         "item": [
             "550 g chicken",
             "120 ml soy sauce",
