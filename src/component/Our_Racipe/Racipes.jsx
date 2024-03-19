@@ -55,7 +55,7 @@ const Racipes = () => {
         <div>
             <div className='space-y-5 text-center'>
                 <h1 className='text-3xl mt-4 font-semibold'>Our Racipes</h1>
-                <p className='lg:px-52 text-base'>Lorem ipsum dolor sit amet consectetur. Proin et feugiat senectus vulputate netus pharetra rhoncus. Eget urna volutpat curabitur elementum mauris aenean neque. </p>
+                <p className='lg:px-52 text-base'>Delicious and diverse, our recipes boast a fusion of flavors, from comforting classics to innovative creations. Explore our collection for culinary inspiration that will tantalize your taste buds and elevate your meals.</p>
             </div>
             <div className='flex flex-col lg:flex-row'>
                 <div className='grid grid-col-1 lg:grid-cols-2 lg:w-2/3'>
