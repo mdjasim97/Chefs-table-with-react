@@ -11,10 +11,10 @@ const Cooks = ({ cooks, handleRemovetoCart, cook, preparingTime, calories }) => 
                 <div className='text-start lg:p-4 p-2' >
                     <h1 className='text-2xl lg:text-3xl text-center font-bold'>Want to cook : {cooks.length} </h1>
                     <hr className='m-5' />
-                    <ul className='flex justify-around'>
-                        <li>Name </li>
-                        <li>Time </li>
-                        <li>Calories </li>
+                    <ul className='grid grid-cols-4 lg:flex lg:justify-start lg:gap-5'>
+                        <li className='ml-12 lg:ml-16'>Name </li>
+                        <li className='ml-12 lg:ml-5'>Time </li>
+                        <li className='ml-8 lg:ml-2'>Calories </li>
                     </ul>
 
                     {
@@ -31,10 +31,10 @@ const Cooks = ({ cooks, handleRemovetoCart, cook, preparingTime, calories }) => 
                     <div className='text-start p-4' >
                         <h1 className='text-2xl lg:text-3xl text-center font-bold'>Currently cooking : {cook.length}</h1>
                         <hr className='m-5' />
-                        <ul className='grid grid-cols-3'>
-                            <li className='text-center'>Name </li>
-                            <li>Time </li>
-                            <li>Calories </li>
+                        <ul className='flex gap-5 justify-end lg:flex-row lg:justify-end'>
+                            <li className='mr-10'>Name </li>
+                            <li className='lg:mr-5'>Time </li>
+                            <li className=''>Calories </li>
                         </ul>
 
                         {
