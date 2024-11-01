@@ -1,7 +1,7 @@
-import Bannar from './component/Bannar/Bannar'
+import Banner from './component/Bannar/Bannar'
 import Header from './component/Header/Header'
 import "./App.css"
-import Racipes from './component/Our_Racipe/Racipes'
+import recipes from './component/Our_Racipe/recipes'
 import { ToastContainer } from 'react-toastify';
 function App() {
 
@@ -10,8 +10,8 @@ function App() {
       <div>
         <ToastContainer />
         <Header></Header>
-        <Bannar></Bannar>
-        <Racipes></Racipes>
+        <Banner></Banner>
+        <recipes></recipes>
       </div>
       {/* <h1>Vite + React</h1> */}
 
